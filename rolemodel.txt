@@ -42,7 +42,7 @@
     </header>
     <div class="container">
         <h2>
-            <img src="C:\Users\Admin\Desktop\nm2\raina.jpeg" alt="Suresh Raina">
+            <img src="raina.jpeg" alt="Suresh Raina">
         </h2>
         <h1>suresh raina
             <br>india
@@ -109,6 +109,7 @@
             <li>Known for his agility and electric fielding, he has been a game-changer in the field.</li>
         </ul>
     </div>
+    
 </body>
 
 </html>

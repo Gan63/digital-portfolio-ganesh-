@@ -61,28 +61,6 @@
             padding: 1rem;
             text-align: left;
         }
-
-        .project {
-            margin: 20px;
-            padding: 20px;
-            background: #3cf503;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            transition: transform 0.2s;
-        }
-
-        .project:hover {
-            transform: scale(1.05);
-        }
-
-        form label,
-        form textarea,
-        form input,
-        form button {
-            display: block;
-            margin: 10px;
-        }
-
         .db {
             height: 45px;
             width: 159px;
@@ -100,11 +78,11 @@
                 <li><a href="#about">About</a></li>
                 <li><a href="#Education">Education</a></li>
                 <li><a href="#Skills"> Skills</a></li>
-                <li><a href="#projects"> Projects</a></li>
+                <li><a href="#project"> Project</a></li>
                 <li><a href="#Resume"> Resume</a></li>
             </ul>
             <br>
-            <img src="C:\Users\Admin\Pictures\New folder\1000054512.jpg" class="img">
+            <img src="1000054512.jpg" class="img">
             <br>
             <h1>GANESH</h1>
             <p>FRESHER</p>
@@ -123,6 +101,7 @@
         <h4>● 2019-2020</h4>
         <p>SSLC from TJMHSS with 61% </p>
     </section>
+    
     <section id="Skills">
         <h1>SKILLS</h1>
         ● C<br>
@@ -134,13 +113,15 @@
     </section>
 
     <section id=Project>
-        <h1><a href=""></a></h1>
+        <h1>projects</h1>
+        <h3><a href="rolemodel.html">project1</a></h3>
+        
 
     </section>
     <section id="Resume">
         <h1>My Resume</h1>
         <p>Click the button below to download my resume:</p>
-        <a href="C:\Users\Admin\Desktop\nm\MY-RESUME.pdf" download="C:\Users\Admin\Desktop\nm\MY-RESUME.pdf">
+        <a href="MY-RESUME.pdf"download="C:\Users\Admin\Desktop\nm\MY-RESUME.pdf">
             <button class="db">Download Resume</button>
         </a>
     </section>
