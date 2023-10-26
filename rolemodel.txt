@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Suresh Raina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+
+        header {
+
+            background-color: #080909;
+            color: #fff;
+            padding: 50;
+            text-align: center;
+        }
+
+        .img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            max-width: 10;
+            height: 5;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 50px rgba(242, 8, 8, 0.1);
+            margin: 50px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>MY ROLE MODEL</h1>
+    </header>
+    <div class="container">
+        <h2>
+            <img src="C:\Users\Admin\Desktop\nm2\raina.jpeg" alt="Suresh Raina">
+        </h2>
+        <h1>suresh raina
+            <br>india
+        </h1>
+        <h2>PERSONAL INFORMATION</h2>
+        <p>Suresh Kumar Raina was born in Muradnagar of Uttar Pradesh on 27 November 1986 into a Kashmiri Pandit family,
+            to parents from Rainawari, Srinagar district of Jammu and Kashmir. Raina lives in the Rajnagar neighborhood
+            of Ghaziabad city. He has an older brother, Dinesh Raina. He studied in a boarding school
+        </p>
+        <h2>PLAYING STYLE</h2>
+        <P>Raina is an attacking middle order left handed batter. He had more success in limited over cricket than in
+            test. He has weakness of short pitched balls and throughout his career opposition teams tried to exploit
+            this weakness.[21] Also in Ranji trophy he has struggled against short balls.[59] He has been widely
+            criticised for his short ball weakness. He is part time off break bowler. His favourite scoring area is mid
+            wickets on side. Most of the times he plays inside out off drive shot. While trying to hit on off side, he
+            creates room for himself. He is particularly strong on the leg side, where he employs a wide array of shots,
+            including the flick, pull, and slog sweep.[60]
+
+            In addition to his batting skills, Raina is an exceptional fielder, renowned for his agility, sharp
+            reflexes, and throwing accuracy. He is often stationed in the inner ring, saving runs and effecting crucial
+            run-outs. Former South African Cricketer Jonty Rhodes has ranked Suresh Raina as Number 1 in his 'top
+            fielders</P>
+        <h2>TEAM HE PLAYED</h2>
+        <p>
+            India<br>
+            Chennai Super Kings<br>
+            India Blue<br>
+            India U19<br>
+            Board Presidents XI<br>
+            Uttar Pradesh<br>
+            India A<br>
+            Rest of India<br>
+            Central Zone<br>
+            Indians<br>
+            Gujarat Lions<br>
+            India Green<br> India C<br> India Legends<br> Deccan Gladiators,<br>
+            India Maharajas<br> B-Love Kandy<br> California Knights<br> Urbanrisers Hyderabad
+        </p>
+        <h2>IPL CAREER</h2>
+        <P>
+            Raina was the backbone of Chennai Super Kings' success. His dashing left-hand style of play at No. 3 gave
+            CSK the luxury to attack at will with a lot of firepower left down the order. The fact that he is currently
+            the highest run-getter in the history of IPL (4985 runs before start of IPL 12) explains the magnanimity of
+            Raina's contribution to the side and he is aptly nicknamed \"Chinna Thala\" by the CSK fans. The lofted
+            straight drive (or hitting in the V) is a shot fans savour to watch as he audaciously plays without fear in
+            a tournament like IPL. He recorded his highest-score in IPL - 100 not out against Kings XI Punjab in 2013 in
+            Chennai, but his blitzkrieg (87 runs off just 25 balls) against KXIP in Qualifier 2 in 2015 standouts
+            amongst all of his IPL performances.
+
+            Raina also bowls very useful right-arm off spin and was often used by Dhoni when he had to look for
+            breakthroughs or try something different. However, he has not been bowling of late with many other options
+            being available for the captain. When CSK faced a two-year exile after the 2015 season, Raina captained the
+            temporary franchise Gujarat Lions as well. When CSK returned from the hiatus, he was one of the three
+            players retained by the franchise . He has been one of the greats in IPL history, referred fondly as
+            'Mr.IPL' due to his dominance in the tournament, where he has scored in excess of 400 runs every year,
+            barring two seasons.
+
+        </P>
+        <h2>CAREER HIGHLIGHTS</h2>
+        <ul>
+            <li>He is the first Indian player to score a century in all three formats of international cricket.</li>
+            <li>Raina has been a key player in the Indian Premier League (IPL) and has achieved significant success with
+                the Chennai Super Kings.</li>
+            <li>Known for his agility and electric fielding, he has been a game-changer in the field.</li>
+        </ul>
+    </div>
+</body>
+
+</html>
